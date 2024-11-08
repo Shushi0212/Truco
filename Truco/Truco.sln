@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truco", "Truco.csproj", "{2AC7E5B8-C86C-4140-9EFA-B09DD3485891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquitectura", "..\Arquitectura\Arquitectura.csproj", "{465BCF84-0C66-4AD3-9CA5-2E2D677BC659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC7E5B8-C86C-4140-9EFA-B09DD3485891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC7E5B8-C86C-4140-9EFA-B09DD3485891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC7E5B8-C86C-4140-9EFA-B09DD3485891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC7E5B8-C86C-4140-9EFA-B09DD3485891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465BCF84-0C66-4AD3-9CA5-2E2D677BC659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465BCF84-0C66-4AD3-9CA5-2E2D677BC659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465BCF84-0C66-4AD3-9CA5-2E2D677BC659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465BCF84-0C66-4AD3-9CA5-2E2D677BC659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DE97689-4FDD-432A-8D9C-5A3F08CCCAF7}
+	EndGlobalSection
+EndGlobal
